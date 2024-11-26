@@ -140,6 +140,11 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 console.log(specialImages.includes(randomCatImage));
 
+var meowSound = new Audio('./assets/meow.wav');
+
+window.onclick = function(event) {
+    meowSound.play();
+}
 // function onAnchorClick(event) {
 //   chrome.tabs.create({ url: event.target.href });
 //   return false;

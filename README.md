@@ -1,5 +1,3 @@
-# Homepage
-
 - <https://pixabay.com/photos/simba-cat-portrait-cat-photography-8618301/>
 
 - <https://pixabay.com/photos/european-shorthair-cat-animal-8601492/>
