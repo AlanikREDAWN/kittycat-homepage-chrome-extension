@@ -2,6 +2,16 @@
 
 This extension replaces the new tab page with a cute cat image, a fun cat fact, and your most visited tabs. Not only that, but if you click on the icon, a pop up menu appears with buttons to cat themed productivity tools (plus a few fun ones)!
 
+## How to install
+
+1. Download the zip file from this GitHub repository
+2. Unzip the files
+3. Go to `chrome://extensions/`
+4. Toggle the "Developer mode" switch on the top right of the extensions page
+5. Click "Load unpacked" and select the unzipped folder
+6. Open a new tab to try out the extension!
+
+### Image Credits:
 
 - <https://pixabay.com/photos/simba-cat-portrait-cat-photography-8618301/>
 
