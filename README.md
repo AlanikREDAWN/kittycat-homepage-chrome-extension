@@ -4,6 +4,8 @@ This extension replaces the new tab page with a cute cat image, a fun cat fact, 
 
 ## How to install
 
+My extension is now on the Chrome Web Store!! Check it out here: https://chromewebstore.google.com/detail/kitty-home/gegeimflalgdljlaehpdmbeihcclgnim?hl=en-US&utm_source=ext_sidebar
+
 1. Download the zip file from this GitHub repository
 2. Unzip the files
 3. Go to `chrome://extensions/`
