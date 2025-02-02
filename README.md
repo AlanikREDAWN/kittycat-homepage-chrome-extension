@@ -13,6 +13,8 @@ My extension is now on the Chrome Web Store!! Check it out here: https://chromew
 5. Click "Load unpacked" and select the unzipped folder
 6. Open a new tab to try out the extension!
 
+![Screenshot 2025-02-02 at 1 57 33 PM](https://github.com/user-attachments/assets/04bcbbfe-dcae-4d95-8beb-b19b2b598786)
+
 ### Image Credits:
 
 - <https://pixabay.com/photos/simba-cat-portrait-cat-photography-8618301/>
